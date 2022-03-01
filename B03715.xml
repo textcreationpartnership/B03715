@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble address of your Majesties Deputy-Lieutenants, Justices of the Peace, and Commission-officers of the county of Glamorgan</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03715</idno>
+            <idno type="STC">Wing H3386B</idno>
+            <idno type="STC">ESTC R178282</idno>
+            <idno type="EEBO-CITATION">53299123</idno>
+            <idno type="OCLC">ocm 53299123</idno>
+            <idno type="VID">179876</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179876)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2807:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble address of your Majesties Deputy-Lieutenants, Justices of the Peace, and Commission-officers of the county of Glamorgan</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Sources.</term>
+               <term>Glamorgan (Wales) --  Officials and employees --  Early works to 1800.</term>
+               <term>Northumberland (England) --  Officials and employees --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="introductory_address">
+            <pb facs="tcp:179876:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>The humble Addreſs of your Majesties Deputy-Lieutenants, Juſtices of the Peace, and Commiſſion-Officers of the County of <hi>Glamorgan.</hi>
+            </head>
+            <p>WE Your Majeſties moſt Loyal and Obedi<g ref="char:EOLhyphen"/>ent Subjects after the publication of Your Majeſties moſt Gracious Declaration, do in moſt humble manner acquieſce to your Majeſties moſt juſt Reaſons, for your Diſſolving the two laſt Parliaments; We do from the Bottom of our Hearts, render your Majeſty thanks for your ſo gracious Condeſcenſion in giving your Subjects Reaſons for your ſo doing; when we acknow<g ref="char:EOLhyphen"/>ledge it your Majeſties undoubted Right and Pre<g ref="char:EOLhyphen"/>rogative to Call and Diſſolve Parliaments, accor<g ref="char:EOLhyphen"/>ding to your Royal Will and Pleaſure; and we rejoyce and lay hold of your moſt Royal Promiſe therein, to Govern this your Kingdom, by the known Laws thereof, as now eſtabliſhed in Church and State; for that thereby we are ſecured in our Religion, Lives Properties, both againſt Papiſts and uſurping Phanaticks, Your Majeſties firm reſolu<g ref="char:EOLhyphen"/>tion of not departing from what you had former<g ref="char:EOLhyphen"/>ly Declared concerning the Succeſſion of your Majeſties Royal Crown, is none of the leaſt ſigns of your Majeſties Conſcientious Juſtice and Love to the Peace of this Nation. We therefore here<g ref="char:EOLhyphen"/>unto ſubſcribing, do humbly Declare. That we will adhere and ſtick to your Majeſties Perſon, all your Rights and Prerogatives, and the ſup<g ref="char:EOLhyphen"/>port of your Majeſties Government with our Lives and Fortunes; and now we pray that your moſt Sacred Majeſty may have a long and proſpe<g ref="char:EOLhyphen"/>rous Reign over us, and that after you, your law<g ref="char:EOLhyphen"/>ful Hei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Succeſſors may Sit in the Throne to the Worlds end.</p>
+            <closer>
+               <dateline>Dated <date>the 8th. day of <hi>Auguſt</hi> in the three and thirti<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>h year of your <hi>Majeſties</hi> Reign.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="address">
+            <head>The humble Addreſs of your Majeſties Lieutenant, Deputy-Lieutenants, Officers of the Militia, the Justices of the Peace, Clergy, Freeholders, and Gentry of the County of <hi>Northum<g ref="char:EOLhyphen"/>berland.</hi>
+            </head>
+            <p>We Your Majeſties remoteſt, yet moſt Loyal Subjects, for ever confirmed in the fulleſt Obedience, and greatest Gratitude imaginable to your Sacred Majesty, by our ſad experience and Senſe of what we have ſuffered heretofore in our Fortunes, our Liberties, and the Lives of our deareſt Relati<g ref="char:EOLhyphen"/>ons, the Tragical Coſequence of that moſt horrid Regicide acted upon your Royal Father of Glorious and Bleſſed Memory, when we reflect upon thoſe hor<g ref="char:EOLhyphen"/>rid Actions and Preceedings;</p>
+            <p>And having ſeen with our Eyes the late Endea<g ref="char:EOLhyphen"/>vours and Practices of many men of the ſame Prin<g ref="char:EOLhyphen"/>ciples tending to the ſubverſion of the Government of Church and State, never to be effected without de<g ref="char:EOLhyphen"/>ſtruction of your Royal Perſon, and your moſt Illuſtri<g ref="char:EOLhyphen"/>ous Brother, in which our Lives, our Liberties and Properties must of neceſſity be involved:</p>
+            <p>Now apprehending our ſelves preſerved under God, next and immediatly by Your Majeſties prudent fore<g ref="char:EOLhyphen"/>ſight and extraordinary Care, we do with greateſt Tranſport of joy, and hearty Thankfulneſs, return your Majeſty our moſt humble and expreſs Acknowledge<g ref="char:EOLhyphen"/>ment for oppoſing, with ſuch incomparable Reſoluti<g ref="char:EOLhyphen"/>on, the Arbitrary and unnatural Proceedings againſt <hi>the udoubted right of your Succeſſion in the Perſon of your Royal Brother, the greateſt Example of Truſt Duty, &amp; Obedience to your Sacred Majeſty,</hi> &amp; when your Princely Wiſdom ſhall think fit to call a Par<g ref="char:EOLhyphen"/>liament at any time, and in any place, both which are intirely and abſolutely in your Mayesties power, we will mainly endeavour that from this County ſhall be elected ſuch Members, as ſhall not be tainted with Arbitrary and Commonwealth Principles, and ſuch as ſhall duly conſider your Majeſties juſt demands as their beſt Rules to concur with, as to ſupplies of Money, or other your great Affairs of State, ſo un<g ref="char:EOLhyphen"/>reaſonably obstructed by ſome men in the late Seſſions of Parliament, to the danger of your Dominions and In<g ref="char:EOLhyphen"/>tereſt abroad, and to the prejudice of your greateſt Concerns at home.</p>
+            <p>And being infinitely oblieged by your Majeſties condeſcending to ſit out your late Declaration to our full ſatisfaction, we clearly Diſcern and Confeſs your reaſons to have been of ſufficient weight and ground for your late Royal Proceedings in the Proro<g ref="char:EOLhyphen"/>gations and Diſſolations of the two laſt Parliaments; and humbly beg your Majeſties Gracious Opinion and Acceptance of us and our unfeigned humble Addreſs; aſsuring your Majeſty, that we will to the last Mite of our Fortune, and Minute of Life, ſtand for the perſervation of ſo good and Gracious a Prince, and your Royal Succeſſors (in the duecourſe of Deſcent) your Royal Prerogative and Rights of the Crown, the Portestant Religion as it is now eſtableſhed by Law, and the known Laws of the Realm; and heartily pray for your Majeſties Life and happovernment.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His Sacred Majeſty, 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
